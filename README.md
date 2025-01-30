@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aryaaditiyaa
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Vue/Nuxt JS and UI/UX Design
 - 💞️ I’m looking to collaborate on challenging project
-- 📫 How to reach me: Instagram: @aryaaditiyaa
+- 📫 How to reach me: Instagram: @aryaaditiyaa, Email: aryaaditiyaa@outlook.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaditiyaa)](https://github.com/anuraghazra/github-readme-stats)
 
