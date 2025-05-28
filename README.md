@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryaaditiyaa
+- 👋 Hi, I’m @aryaaditiyaa, nice to meet you
 - 👀 I’m interested in software engineering
 - 💞️ I’m looking to collaborate on challenging project
 - 📫 How to reach me: Instagram: @aryaaditiyaa, Email: aryaaditiyaa@outlook.com
